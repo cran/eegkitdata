@@ -1,0 +1,8 @@
+06b5e2faa70918211e855bc1301dbd24 *DESCRIPTION
+a5ee16b6e1d405d44310eb10a9090b5f *NAMESPACE
+5117713a24b4d9381e1c2b492d6206c4 *R/geteegdata.R
+4e6f073b776ccbb31161e878348098e2 *data/datalist
+50d46a1e1b01c0422e4f5849dd34911b *data/eegdata.rda
+bbbf5352f9506c8b82a46a42233cbd9f *man/eegdata.Rd
+21f7c3f19a7eb3db98b2fcd35edaa751 *man/eegkitdata-package.Rd
+d415a2df3846a24654a55c388d6797ba *man/geteegdata.Rd
