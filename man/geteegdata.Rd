@@ -1,14 +1,14 @@
 \name{geteegdata}
 \alias{geteegdata}
 \title{
-Create data matrix from UCI EEG data
+Create Data Matrix from UCI EEG Database
 }
 \description{
 Creates a data matrix (observations by variables) from the EEG Database on UCI Machine Learning Repository. Data matrix has 7 variables: subject, group, condition, trial, channel, time, and voltage. See \code{\link{eegdata}} and Details for more information.
 }
 \usage{
-geteegdata(indir,outdir=indir,cond=c("S1","S2m","S2n"),nt=NULL,
-           filename="eegdata",filetype=c(".rda",".csv",".txt"))
+geteegdata(indir, outdir = indir, cond = c("S1", "S2m", "S2n"), nt = NULL,
+           filename = "eegdata", filetype = c(".rda", ".csv", ".txt"))
 }
 \arguments{
   \item{indir}{

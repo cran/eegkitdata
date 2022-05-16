@@ -2,7 +2,7 @@
 \alias{eegkitdata-package}
 \alias{eegkitdata}
 \docType{package}
-\title{Data for package eegkit}
+\title{Electroencephalography Toolkit Datasets}
 \description{
 Contains the example EEG data used in the package eegkit. Also contains code for easily creating larger EEG datasets from the EEG Database on the UCI Machine Learning Repository.
 }

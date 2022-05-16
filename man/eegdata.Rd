@@ -2,7 +2,7 @@
 \alias{eegdata}
 \docType{data}
 \title{
-EEG data from alcoholic and control subjects
+EEG Data from Alcoholic and Control Subjects
 }
 \description{
 Contains 64-channel electroencephalography (EEG) data from 10 alcoholic and 10 control subjects participating in a visual event-related potential (ERP) experiment. Data frame contains 5 trials (replications) from each subject. Data were recorded at 256 Hz for 1 second following the presentation of the visual stimulus.

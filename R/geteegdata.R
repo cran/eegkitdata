@@ -1,9 +1,9 @@
 geteegdata <-
-  function(indir,outdir=indir,cond=c("S1","S2m","S2n"),nt=NULL,
-           filename="eegdata",filetype=c(".rda",".csv",".txt")){
+  function(indir, outdir = indir, cond = c("S1", "S2m", "S2n"), nt = NULL,
+           filename = "eegdata", filetype = c(".rda", ".csv", ".txt")){
     ###### Create data matrix from UCI EEG data
     ###### Nathaniel E. Helwig (helwig@umn.edu)
-    ###### Last modified: September 9, 2014
+    ###### Last modified: May 16, 2022
 
     ### initial checks
     filetype=filetype[1]
